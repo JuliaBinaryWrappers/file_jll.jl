@@ -1,0 +1,118 @@
+[[file]]
+arch = "aarch64"
+git-tree-sha1 = "fee6765cbc23f1712a1f01ae6e5b4b614517346e"
+os = "macos"
+
+    [[file.download]]
+    sha256 = "7066cbe437968a1837696287f7d85c92f53c6075763407911c7e1667bdac7449"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.aarch64-apple-darwin.tar.gz"
+[[file]]
+arch = "aarch64"
+git-tree-sha1 = "fa081f16dc23a18c7ebcd3ccffc34a50f03b5abb"
+libc = "glibc"
+os = "linux"
+
+    [[file.download]]
+    sha256 = "59db9c2d21ba793c7911578ae790240a4b48b5278b5553ae42f0ffc62484d3ef"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.aarch64-linux-gnu.tar.gz"
+[[file]]
+arch = "aarch64"
+git-tree-sha1 = "f97aab50f69b1a6ee283bf166a4a33d9e6090e5f"
+libc = "musl"
+os = "linux"
+
+    [[file.download]]
+    sha256 = "e9442a236c3ddcb2b0a3ac768de556e4a6b1e1205514e908db7ef348c77775f6"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.aarch64-linux-musl.tar.gz"
+[[file]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6159584a3bda1c8e3d353698ecc855cd69af2582"
+libc = "glibc"
+os = "linux"
+
+    [[file.download]]
+    sha256 = "c031ef2cba695d2a3b0c943eb95f8706d39e8bf44a57310196079e9f952edbcf"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.armv6l-linux-gnueabihf.tar.gz"
+[[file]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e2507c600ba988b67ca1ddd3b7b9f5b5f5ee78bf"
+libc = "musl"
+os = "linux"
+
+    [[file.download]]
+    sha256 = "a56e2c4a7c3e9f70c617e20a58287c09e5b9f0c03c0cdcdfcc9122c3d1c953d8"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.armv6l-linux-musleabihf.tar.gz"
+[[file]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cd93b0c77f8cd5fb185cb831a1534014dac64803"
+libc = "glibc"
+os = "linux"
+
+    [[file.download]]
+    sha256 = "ff77315385da75f908b722ba9406843a561158e119948adc90e89c6822f4878b"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.armv7l-linux-gnueabihf.tar.gz"
+[[file]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "98e15154206645aee771fe748e2aca91876f08cf"
+libc = "musl"
+os = "linux"
+
+    [[file.download]]
+    sha256 = "5a1a0b5310a928033b14554cfdd2d3b56fe795fb871c172200adb6e2f07a6503"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.armv7l-linux-musleabihf.tar.gz"
+[[file]]
+arch = "i686"
+git-tree-sha1 = "296f7956fc2742c34c8bb9c0e8bbafdf055f85fe"
+libc = "glibc"
+os = "linux"
+
+    [[file.download]]
+    sha256 = "3e8f5588e82eaa07efe5edb388c85db5919501884d37dfd7d43c3ad60d0f4638"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.i686-linux-gnu.tar.gz"
+[[file]]
+arch = "powerpc64le"
+git-tree-sha1 = "b768951fdbbb85f2ae871d8bbbe141df5acc9d28"
+libc = "glibc"
+os = "linux"
+
+    [[file.download]]
+    sha256 = "9876b261748f7f910de0abf53567126c65672e1740670e594c311ecfc3a3d2e9"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.powerpc64le-linux-gnu.tar.gz"
+[[file]]
+arch = "x86_64"
+git-tree-sha1 = "7cc391551bfc9a1f99841afc958d740fd91347ce"
+os = "macos"
+
+    [[file.download]]
+    sha256 = "be9755672479692d5a81fa05f584a440e38c388939fb73986bd5205a3fe3b178"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.x86_64-apple-darwin.tar.gz"
+[[file]]
+arch = "x86_64"
+git-tree-sha1 = "6353de4a4da835fdde8c6519ee850228cc1e7fb0"
+libc = "glibc"
+os = "linux"
+
+    [[file.download]]
+    sha256 = "abf2c531d164ce25c87b83a97c5d905dc83533627c0bb893f513879394c34763"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.x86_64-linux-gnu.tar.gz"
+[[file]]
+arch = "x86_64"
+git-tree-sha1 = "39c55a4dad1df3ca0f0504f7fb977c6859c96cc7"
+libc = "musl"
+os = "linux"
+
+    [[file.download]]
+    sha256 = "0b87bd2b0b382ca71c71c0db4992aae7f9f18eb23614acfe84a71e8e57acf664"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.x86_64-linux-musl.tar.gz"
+[[file]]
+arch = "x86_64"
+git-tree-sha1 = "9c7b086a4b6e0fb9283ff0c2d3ed53023304f963"
+os = "freebsd"
+
+    [[file.download]]
+    sha256 = "cdfc8149571b5f74776f689a1c64c4185593657429b1d50931c4d3c4139ab082"
+    url = "https://github.com/JuliaBinaryWrappers/file_jll.jl/releases/download/file-v5.41.0+0/file.v5.41.0.x86_64-unknown-freebsd.tar.gz"
